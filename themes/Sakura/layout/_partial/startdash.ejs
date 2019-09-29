@@ -1,0 +1,20 @@
+<div class="top-feature-row">
+  <!--<h1 class="fes-title" style="font-family: 'Ubuntu', sans-serif;">
+  <span style="color:#FF0000;">
+    <i class="fa fa-heartbeat" aria-hidden="true"></i></span> 把那誓言轻轻戴在你的手指，从此俩个人生生世世。</h1>-->
+  <% for (dash in theme.startdash) { %>
+  <div class="top-feature-v2">
+    <div class="the-feature square from_left_and_right">
+      <a href="<%= theme.startdash[dash].url %>" target="_blank">
+        <div class="img">
+          <img src="<%- (theme.cdn || '') + theme.startdash[dash].img %>">
+        </div>
+        <div class="info">
+          <h3><%= theme.startdash[dash].title %></h3>
+          <p><%= theme.startdash[dash].desc %></p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <% } %>
+</div>
