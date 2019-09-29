@@ -92,7 +92,7 @@ backup:
   message: Back up my www.love109.cn blog
   repository:
     github: git@love109.github.com:love109/love109.github.io.git,backup
-    coding: git@love109.coding.net:love109/love109.git,backup
+    coding: git@love109.dev.tencent.com:TRHX/TRHX.git,backup
 
 #端口号
 server:
