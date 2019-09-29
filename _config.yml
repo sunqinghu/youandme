@@ -83,7 +83,7 @@ deploy:
     github: git@love109.github.com:love109/love109.github.io.git
     coding: git@love109.coding.net:love109/love109.git
   branch: master
-#- type: baidu_url_submitter
+- type: baidu_url_submitter
 
 # 博客备份
 backup:
@@ -93,6 +93,19 @@ backup:
   repository:
     github: git@love109.github.com:love109/love109.github.io.git,backup
     coding: git@love109.coding.net:love109/love109.git,backup
+
+# 提交百度搜索
+baidu_url_submit:
+  count: 200
+  host: www.love109.cn
+  token: igTjk1xBNcyfKrDX
+  path: baidu_urls.txt
+
+# 自动生成sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 
 #端口号
 server:
