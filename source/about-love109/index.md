@@ -13,6 +13,8 @@ photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@1.6/images/about/cov
 <p align="center">本站部分图标、图片、源代码来源于互联网，如有侵权请联系我立即删除</p>
 <p align="center">原主题<a href="http://akina.pw/"> Akina </a>由<a href="http://akina.pw/"> Fuzzz </a>开发，<a href="https://www.cssplus.org/"> Louie </a>二次修改为<a href="https://github.com/louie-senpai/Siren"> Siren </a>，<a href="https://2heng.xin/"> Mashiro </a>三次修改为<a href="https://github.com/mashirozx/Sakura"> Sakura </a></p>
 <p align="center">由<a href="https://www.hojun.cn/"> hojun </a>将主题从 WordPress 迁移到 Hexo 并再次开发，<a href="https://love109.github.io/"> LOVE109❤️纪实小屋 </a>使用时有所改动</p>
+<p align="center">本站源码：https://github.com/TRHX/love109.github.io</p>
+<p align="center">本站主题：https://github.com/honjun/hexo-theme-sakura</p>
 <p align="center">感谢开发者们的辛苦付出！</p>
 {% endraw %}
 ---

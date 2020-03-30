@@ -91,8 +91,8 @@ backup:
   theme: Sakura
   message: Back up my www.love109.cn blog
   repository:
-    github: git@github.com:love109/love109.github.io.git,backup
-    coding: git@git.coding.net:love109/love109.git,backup
+    github: git@love109.github.com:love109/love109.github.io.git,backup
+    coding: git@love109.coding.net:love109/love109.git,backup
 
 # 提交百度搜索
 baidu_url_submit:
