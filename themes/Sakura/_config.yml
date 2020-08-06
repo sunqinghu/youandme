@@ -20,7 +20,7 @@ menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
   归档: { path: /archives/, fa: fa-archive faa-shake }
   表白: { path: /loveyou/, fa: fa-heartbeat faa-tada }
-  相册: { path: /album/, fa: fa-image faa-tada }
+  #相册: { path: /album/, fa: fa-image faa-tada }
   100件事: { path: /100-things/, fa: fa-envelope faa-wrench }
   友人帐: { path: /links/, fa: fa-link faa-shake }
   时间轴: { fa: fa-list faa-tada , submenus: { 
@@ -103,11 +103,11 @@ social:
   哔哩哔哩: {url: https://space.bilibili.com/314463806, img: /images/social/bilibili.png}
   #网易云音乐: {url: https://music.163.com/#/user/home?id=1379654769, img: /images/social/wangyiyun.png}
   邮件: {url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=-4uNl4e-mZCHkp6Wk9GckJI, img: /images/social/email.svg}
-  QQ: {url: http://wpa.qq.com/msgrd?v=3&uin=2273902448&site=qq&menu=yes, img: /images/social/qq.png}
+  #QQ: {url: http://wpa.qq.com/msgrd?v=3&uin=2273902448&site=qq&menu=yes, img: /images/social/qq.png}
   Telegram: {url: https://t.me/TRHX, img: /images/social/telegram.svg}
 
 #social  url, img 移动端配置
 msocial:
   GitHub: {url: https://github.com/love109, fa: fa-github, color: 333}
   WeiBo: {url: http://weibo.com/TRHX1, fa: fa-weibo, color: dd4b39}
-  QQ: {url: http://wpa.qq.com/msgrd?v=3&uin=2273902448&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
+  #QQ: {url: http://wpa.qq.com/msgrd?v=3&uin=2273902448&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
