@@ -140,6 +140,16 @@ comments: false
                     <p>原SM.MS图床访问速度较慢，更换为GitHub图床，使用jsDelivr CDN加速</p>
                 </div>
             </li>
+            <li>
+                <time class="cbp_tmtime" datetime="2020-09-02 21:00">
+                <span>2020/09/02</span> <span>21:00</span>
+                </time>
+                <div class="cbp_tmicon"></div>
+                <div class="cbp_tmlabel">
+                    <h2>更新主题</h2>
+                    <p>更换文末赞助样式，整站支持 pjax</p>
+                </div>
+            </li>
         </ul>
     </div>
 </div>
