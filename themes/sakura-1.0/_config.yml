@@ -1,0 +1,114 @@
+#9B30FF 紫色
+#FF69B4 粉色
+
+# site name
+prefixName: LOVE109❤️
+siteName:  纪实小屋
+# favicon and site master avatar 底部描述信息
+favicon: /images/favicon.ico
+avatar: /images/custom/love109.jpg
+url: https://love109.cn
+description: 记录爱情 ❤️ 记录生活
+cdn: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.8
+# 1开启
+mathjax: 1
+
+notice: 2020-09-02  网站正在优化中，可能访问不太稳定，敬请见谅。
+lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+
+menus:
+  首页: { path: /, fa: fa-fort-awesome faa-shake }
+  归档: { path: /archives/, fa: fa-archive faa-shake }
+  表白: { path: /loveyou/, fa: fa-heartbeat faa-tada }
+  #相册: { path: /album/, fa: fa-image faa-tada }
+  100件事: { path: /100-things/, fa: fa-envelope faa-wrench }
+  友人帐: { path: /links/, fa: fa-link faa-shake }
+  时间轴: { fa: fa-list faa-tada , submenus: { 
+    爱情长跑线: { path: /LoveTimeline/, fa: fa-envelope-open faa-pulse },
+    小屋大事记: { path: /SiteTimeline/, fa: fa-home faa-shake }
+  }}
+  留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
+  关于: { path: /, fa: fa-info-circle faa-wrench , submenus: { 
+    我们: {path: /about-us/, fa: fa-user}, 
+    小屋: {path: /about-love109/, fa: fa-home}
+    #博主: {path: /about-trhx/, fa: fa-cogs}
+  }}
+
+
+aplayer: 
+  id: 2663438812
+  server: netease
+  type: playlist
+  fixed: true
+  mini: false
+  autoplay: true
+  loop: all
+  order: random
+  preload: auto
+  volume: 0.7
+  mutex: true
+
+gitalk:
+  # 是否自动展开评论框
+  autoExpand: true
+  # 应用编号
+  clientID: '86b426d599291a09fd9d'
+  # 应用秘钥
+  clientSecret: '1ecdb591cf7b023ea75e101d94530e34ca9423f4'
+  # issue仓库名
+  repo: 'love109.github.io'
+  # Github名
+  owner: 'love109'
+  # Github名
+  admin: ['love109']
+  # Ensure uniqueness and length less than 50
+  id: location.pathname
+  # Facebook-like distraction free mode
+  distractionFreeMode: false
+
+
+# Home page sort type: -1: newer first，1: older first.
+homePageSortType: -1
+# Home page article shown number)
+homeArticleShown: 10
+
+# 背景图片 更好的修改
+bg:
+  - https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.9/images/album-us-1/003.jpg
+#  - https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.8/images/album-us-1/cover1.webp
+#  - https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.8/images/album-us-1/cover2.webp
+
+# 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
+bgclass:
+
+# 视频地址为https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.3//The Pet Girl of Sakurasou.mp4，配置如下
+movies:
+  url: https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.3
+  # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
+  name: The Pet Girl of Sakurasou.mp4
+
+# startdash url, title, desc img
+startdash: 
+  - {url: /, title: LOVE109纪实小屋, desc: LOVE109纪实小屋, img: \images\startdash\1.webp}
+  - {url: /, title: LOVE109纪实小屋, desc: LOVE109纪实小屋, img: \images\startdash\2.webp}
+  - {url: /, title: LOVE109纪实小屋, desc: LOVE109纪实小屋, img: \images\startdash\3.webp}
+
+# your site build time or founded date
+siteBuildingTime: 01/17/2019
+
+#social  url, img PC端配置
+social:
+  GitHub: {url: https://github.com/TRHX, img: /images/social/github.png}
+  CSDN: {url: https://itrhx.blog.csdn.net/, img: /images/social/csdn.png}
+  知乎: {url: https://www.zhihu.com/people/itrhx, img: /images/social/zhihu.png}
+  哔哩哔哩: {url: https://space.bilibili.com/314463806, img: /images/social/bilibili.png}
+  #网易云音乐: {url: https://music.163.com/#/user/home?id=1379654769, img: /images/social/wangyiyun.png}
+  邮件: {url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=-4uNl4e-mZCHkp6Wk9GckJI, img: /images/social/email.svg}
+  #QQ: {url: http://wpa.qq.com/msgrd?v=3&uin=2273902448&site=qq&menu=yes, img: /images/social/qq.png}
+  Telegram: {url: https://t.me/TRHX, img: /images/social/telegram.svg}
+
+#social  url, img 移动端配置
+msocial:
+  GitHub: {url: https://github.com/love109, fa: fa-github, color: 333}
+  WeiBo: {url: http://weibo.com/TRHX1, fa: fa-weibo, color: dd4b39}
+  #QQ: {url: http://wpa.qq.com/msgrd?v=3&uin=2273902448&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}

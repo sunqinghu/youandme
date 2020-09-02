@@ -5,7 +5,7 @@ author: Author：小仙女❤️
 authorAbout: 记录爱情 ❤️ 记录生活
 authorLink: https://love109.cn
 avatar: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@1.6/images/custom/love109.jpg
-photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@1.6/images/article/article02.webp
+photos: https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/LOVE-PIC/article/article02.webp
 categories: 我们
 tags: 初恋
 description: 每个人的学生时代好像都应该有一个完美的初恋情人。 就像陈小希有江辰，沈佳宜有柯景腾，乔一有F君，而我，也有我的谭。

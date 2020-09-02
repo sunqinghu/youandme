@@ -5,7 +5,7 @@ author: Author：小谭谭❤️
 authorAbout: 记录爱情 ❤️ 记录生活
 authorLink: https://love109.cn
 avatar: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@1.6/images/custom/love109.jpg
-photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@1.6/images/article/article04.webp
+photos: https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/LOVE-PIC/article/article04.webp
 categories: 碎语
 tags: Happy New Year ！
 description: Happy New Year ！为全天下所有的情侣送上祝福！

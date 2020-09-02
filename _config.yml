@@ -7,7 +7,7 @@ title: LOVE109❤️纪实小屋
 subtitle: 记录爱情 记录生活
 description: LOVE109❤️纪实小屋 —— 一个情侣博客，记录我们美好的爱情、记录生活中的点点滴滴！
 keywords: 情侣博客 情侣网站 情侣空间 记录爱情 记录生活
-author: LOVE109
+author: LOVE109❤️纪实小屋
 language: zh-cn
 timezone:
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Sakura
+theme: sakura-2.0
  
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

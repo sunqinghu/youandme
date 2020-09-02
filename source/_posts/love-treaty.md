@@ -4,7 +4,7 @@ author: Author：小仙女❤️
 authorAbout: 记录爱情 ❤️ 记录生活
 authorLink: https://love109.cn
 avatar: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.1/images/custom/love109.jpg
-photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.1/images/article/article10.webp
+photos: https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/LOVE-PIC/article/article10.webp
 categories: 我们
 tags: 爱情条约
 description: 异地恋就是我的思念你只能体会到20%，而我的脾气你却能体会到200%

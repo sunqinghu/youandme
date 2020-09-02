@@ -4,7 +4,7 @@ author: Author：小谭谭❤️
 authorAbout: 记录爱情 ❤️ 记录生活
 authorLink: https://love109.cn
 avatar: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.1/images/custom/love109.jpg
-photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.1/images/article/article09.webp
+photos: https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/LOVE-PIC/article/article09.webp
 categories: 文章分享
 tags: 美文
 description: 被爱是一种什么体验？

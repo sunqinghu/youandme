@@ -4,7 +4,7 @@ date: 2019-1-27 17:01:00
 author: Author：小仙女❤️
 authorAbout: 记录爱情 ❤️ 记录生活
 avatar: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@1.6/images/custom/love109.jpg
-photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@1.6/images/article/article01.webp
+photos: https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/LOVE-PIC/article/article01.webp
 authorLink: https://love109.cn
 categories: 我们
 tags: 萌芽

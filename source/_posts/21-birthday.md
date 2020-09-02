@@ -5,7 +5,7 @@ author: Author：小谭谭❤️
 authorAbout: 记录爱情 ❤️ 记录生活
 authorLink: https://www.love109.cn/
 avatar: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.2/images/custom/love109.jpg
-photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.0.2/images/article/article11.webp
+photos: https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/LOVE-PIC/article/article11.webp
 categories: 我们
 tags: 生日
 description: Happy Birthday！

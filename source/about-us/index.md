@@ -4,7 +4,7 @@ date: 2018-12-12 22:14:36
 keywords: 关于我们 ● ABOUT US
 description: 
 comments: false
-photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@1.6/images/about/cover.webp
+photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.1.2/images/about/cover.webp
 ---
 {% raw %}
 <div class="moe-mashiro" style="text-align:center; font-size: 30px; margin-bottom: 20px;">[关于LOVE109❤️纪实小屋]</div>
