@@ -96,7 +96,7 @@ backup:
 
 # 提交百度搜索
 baidu_url_submit:
-  count: 200
+  count: 999
   host: www.love109.cn
   token: igTjk1xBNcyfKrDX
   path: baidu_urls.txt

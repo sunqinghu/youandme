@@ -13,7 +13,7 @@ cdn: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.1.2
 
 # 1开启
 pjax: 1
-mathjax: 1
+mathjax: 0
 
 notice: 2020-09-02  网站正在优化中，可能访问不太稳定，敬请见谅。
 lazyloadImg: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.1.2/images/other/orange.progress-bar-stripe-loader.svg
@@ -36,14 +36,14 @@ menus:
   }}
 
 aplayer: 
-  id: 2663438812
+  id: 5216429357
   server: netease
   type: playlist
   fixed: true
   mini: false
   autoplay: true
   loop: all
-  order: random
+  order: list
   preload: auto
   volume: 0.7
   mutex: true
