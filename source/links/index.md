@@ -50,6 +50,10 @@ links:
       img: https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/LOVE-LINKS/piggerchan.png
       name: PiggerChan
       desc: 产品和程序员的相爱相杀
+    - url: http://www.sdlnihao.com/
+      img: https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/LOVE-LINKS/sdlnihao.jpg
+      name: 马狗蛋和宋仙女儿的爱情小屋
+      desc: 马狗蛋和宋仙女儿的爱情小屋
 
   - group: 文艺博主
     items:

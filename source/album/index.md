@@ -3,7 +3,7 @@ title: Album
 keywords: 相册 ● Album
 description: 
 comments: false
-photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.1.2/images/album/cover.webp
+photos: https://cdn.jsdelivr.net/gh/TRHX/CDN-for-love109.cn@2.1.3/images/album/cover.webp
 ---
 {% raw %}
 <div class="notice" style="margin-top:60px">
