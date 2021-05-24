@@ -1611,7 +1611,7 @@ $(function () {
   })
   console.log('\n %c Mashiro %c https://2heng.xin/ \n','color: #ffffff; background: #ff69b4; padding:5px 0;','background: #9B30FF; padding:5px 0;')
   console.log('\n %c hojun %c https://www.hojun.cn/ \n', 'color: #ffffff; background: #ff69b4; padding:5px 0;','background: #9B30FF; padding:5px 0;')
-  console.log('\n %c LOVE109❤️纪实小屋 %c https://www.love109.cn/ \n','color: #ffffff; background: #ff69b4; padding:5px 0;','background: #9B30FF; padding:5px 0;')
+  console.log('\n %c LOVE109❤️纪实小屋 %c https://sunqh.top/youandme/ \n','color: #ffffff; background: #ff69b4; padding:5px 0;','background: #9B30FF; padding:5px 0;')
 })
 var isWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1,
   isOpera = navigator.userAgent.toLowerCase().indexOf('opera') > -1,

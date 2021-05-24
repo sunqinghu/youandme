@@ -1,6 +1,6 @@
 # love109.github.io
 
-个人爱情记录网站：www.love109.cn
+个人爱情记录网站：sunqh.top/youandme
 
 个人学习记录网站：www.itrhx.com
 
